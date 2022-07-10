@@ -7,11 +7,6 @@ if (myName == "Harish") {
 } else {
   console.log(false);
 }
-if (myName == "Harish") {
-  console.log(true);
-} else {
-  console.log(false);
-}
 
 // Or Simply
 
