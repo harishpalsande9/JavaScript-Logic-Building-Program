@@ -9,3 +9,4 @@ console.log(array);
 const newArray = array.slice(1);
 
 console.log(newArray);
+console.log(newArray);
